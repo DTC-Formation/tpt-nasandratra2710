@@ -144,5 +144,31 @@ List courses = [
     'is_favorited': false,
     'description':
         'Quelles que soient vos préférences, retrouvez à chaque niveau de votre formation des cours pensés pour tous types de guitare et tous styles de musique.'
-  }
+  },
+  {
+    'id': 104,
+    'name': 'Pastry class',
+    'image':
+        'https://images.unsplash.com/photo-1495147466023-ac5c588e2e94?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80',
+    'price': '100.000,00 Ar',
+    'duration': '5 hours',
+    'session': '1 lesson',
+    'review': '4.5',
+    'is_favorited': false,
+    'description':
+        'Cette formation vise à fournir aux étudiants et étudiantes les connaissances nécessaires pour devenir pâtissier et pâtissière.'
+  },
+  {
+    'id': 105,
+    'name': 'PHP Developper',
+    'image':
+        'https://images.unsplash.com/photo-1590608897129-79da98d15969?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80',
+    'price': '120.000,00 Ar',
+    'duration': '100 hours',
+    'session': '10 lessons',
+    'review': '4.5',
+    'is_favorited': false,
+    'description':
+        'Notre formation PHP couvre toutes les notions de base jusqu\'à la création d\'applications complexes.'
+  },
 ];
