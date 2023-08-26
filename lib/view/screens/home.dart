@@ -1,6 +1,6 @@
 import 'package:carousel_slider/carousel_slider.dart';
 import 'package:dtc_online_course/view/themes/color.dart';
-import 'package:dtc_online_course/view/utils/data.dart';
+import 'package:dtc_online_course/model/data.dart';
 import 'package:dtc_online_course/view/widgets/category.dart';
 import 'package:dtc_online_course/view/widgets/feature_item.dart';
 import 'package:dtc_online_course/view/widgets/notifications.dart';
